@@ -1,2 +1,2 @@
 # formValidationExercise
-This porjects is aimed for practising purpose using jQuery.  
+This porject is aimed for practising purpose using jQuery.  
